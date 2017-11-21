@@ -1,4 +1,4 @@
-/* PORTFOLIO GLOBAL STYLES
+/* IEEE GLOBAL STYLES
 -------------------------------------------------- */
 
 body {
@@ -50,7 +50,7 @@ body {
 
 /* CUSTOMIZE THE JUMBOTRON
 -------------------------------------------------- */
-.parallex {
+.parallex{
     background-image: url(img/RAS.jpg);
     height: 350px;
     color: #fff;
@@ -60,12 +60,23 @@ body {
     background-size: cover;
 
 }
-.ieee-text {
+.ieee-text{
     color: #006BAE;
     font-weight: 900;
 }
-.lead {
+.lead{
     color: #fbfbfb;
+}
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+.marketing {
+    padding-top: 80px;
+}
+
+.marketing .col-md-4 {
+    margin-bottom: 20px;
 }
 
 
@@ -118,12 +129,13 @@ body {
 
 
 
-.credits-div p {
-    margin-top: 15px !important;
-}
-.icompete-img {
-  margin-left: 135px;
-}
+
+
+
+
+
+
+
 #Style {
     padding:20px;
 }
